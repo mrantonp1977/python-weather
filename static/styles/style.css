@@ -10,8 +10,8 @@ h1 {
 
 body {
   padding: 4rem;
-  background-color: #101b5f;
-  color: whitesmoke;
+  background-color: #49105f;
+  color: aqua;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
